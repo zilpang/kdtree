@@ -1,4 +1,4 @@
 # kdtree
 
-1. Build the tree
-2. Find the nearest neighbor point with a given point.
+1. Build the k-d tree.
+2. Find the nearest neighbor point from an input point.
